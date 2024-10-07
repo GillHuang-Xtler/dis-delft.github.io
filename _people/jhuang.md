@@ -52,7 +52,7 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/c4e422
 
 ## About
 
-Jiyue is a Post-doctoral researcher at the Data-Intensive Systems group under the joint guidance of Dr. Lydia Y. Chen, Dr. Fang Fang, and Dr Dion Bongaerts .
+Jiyue is a Post-doctoral researcher at the Data-Intensive Systems group under the joint guidance of Dr. Lydia Y. Chen, Dr. Fang Fang, and Dr Dion Bongaerts.
 Her current research is mainly focused in the area of attacks and defences in federated learning systems. Her broader work aim at buiding more robust and privacy-preserving multi-agent machine learning systems.
 
 Current interests include:

@@ -33,7 +33,7 @@ github: https://github.com/GillHuang-Xtler
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
 # write the exact name of the image as it appears in GitHub  
-image: cox.png
+image: jhuang.png
 
 # the TUD email address
 email: j.huang-4@tudelft.nl
